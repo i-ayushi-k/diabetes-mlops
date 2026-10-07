@@ -4,5 +4,6 @@ __pycache__/
 .mlflow/
 mlruns/
 models/
+mlflow.db
 .pytest_cache/
 .dvc/cache/
